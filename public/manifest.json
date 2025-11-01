@@ -1,0 +1,8 @@
+{
+  "short_name": "Sritharni Portfolio",
+  "name": "Sritharni Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff"
+}
